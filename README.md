@@ -4,17 +4,19 @@ Unlock the power of HR data with our Nexus. Featuring over 22,000 rows spanning 
 ![Screenshot (126)](https://github.com/Femvrich001/HR-Analytics-Nexus/assets/117773133/7c531f5d-21a7-4126-8db9-73449f7c6d4e)
 
 # Questions
-1.What is the gender breakdown of employees in the company?
-2.What is the race/ethnicity breakdown of employees in the company?
-3.What is the age distribution of employees in the company?
-4.How many employees work at headquarters versus remote locations?
-5.What is the average length of employment for employees who have been terminated?
-6.How does the gender distribution vary across departments and job titles?
-7.What is the distribution of job titles across the company?
-8.Which department has the highest turnover rate?
-9.What is the distribution of employees across locations by state?
-10.How has the company's employee count changed over time based on hire and term dates?
-11.What is the tenure distribution for each department?
+
+1. What is the gender distribution among employees?
+2. How does the racial and ethnic composition vary within the company's workforce?
+3. What is the age profile of the employees?
+4. How many employees are based at the company's headquarters compared to remote locations?
+5. What is the average tenure of terminated employees?
+6. How does gender distribution differ across departments and job titles?
+7. What is the distribution of job titles across the company?
+8. Which department experiences the highest turnover rate?
+9. How are employees distributed across different states?
+10. What is the trend in the company's employee count over time, considering hire and termination dates?
+11. What is the tenure distribution across various departments?
+
 
 # Summary of Findings
 
